@@ -1,0 +1,11 @@
+
+# on commence avec la pump1 puis Pump2 on economise 3 secondes sur le repos de la Pompe1 puis on repart sur la Pompe 1 encore 2 fois avant de passer aux machines:
+
+# 20 + 10 + 10 + 10 =  50 OILMADE EN 2 + 3(+2secondes restant) + (7) + 2 = 16 secondes (pour le dernier 2 j'enleve la periode de repos)
+# 25 + 5 + 5 + 5 + 5 = 45 OILNEED = 5 + (3+5) + (3+5)+ (3+5)+ 3 = 32 secondes total pour 4 roues et 1 moteur (pour le dernier 3 j'enleve la periode de repos)
+# 48 secondes un tour. REST 5 OILTANK
+
+# 20 + 10 + 10 + 10  50 OILMADE en 2 + 3(+2secondes restant) + (7) + 2 = 16 secondes (pour le dernier 2 j'enleve la periode de repos)
+# # 25 + 5 + 5 + 5 + 5 = 45 OILNEED = 5 + (3+5) + (3+5)+ (3+5)+ 3 = 32 secondes total pour 4 roues et 1 moteur (pour le dernier 3 j'enleve la periode de repos)
+# 48 secondes pour le deuxieme tour reste 10 OIL in tank
+# 96 secondes pour les 2 minutes ou 1 min 36 pour 2 voiture.
